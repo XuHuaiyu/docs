@@ -383,7 +383,7 @@
     + [Character Set and Collation](/character-set-and-collation.md)
     + System Tables
       + [`mysql`](/mysql-schema.md)
-      + `INFORMATION_SCHEMA`
+      + Information Schema
         + [Overview](/information-schema.md)
         + [`ANALYZE_STATUS`](/information-schema/information-schema-analyze-status.md)
         + [`CHARACTER_SETS`](/information-schema/information-schema-character-sets.md)
